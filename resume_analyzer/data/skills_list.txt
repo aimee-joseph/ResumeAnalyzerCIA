@@ -1,0 +1,26 @@
+python
+java
+sql
+html
+css
+javascript
+react
+node
+machine learning
+data analysis
+power bi
+tableau
+excel
+pandas
+numpy
+scikit-learn
+tensorflow
+deep learning
+nlp
+streamlit
+django
+flask
+git
+github
+mysql
+postgresql
